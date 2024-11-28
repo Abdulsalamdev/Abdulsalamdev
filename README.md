@@ -19,11 +19,16 @@ vercel,
 Postman
 
 🌍 Let's Connect!
+
 LinkedIn: https://www.linkedin.com/in/abdulsalam-akinyoola-2b01b82a8,
+
 Twitter: https://twitter.com/Abdulsalamdev,
+
 Email: abdulsalamakinyoola@gmail.com
 
 🌟 About Me
+
 💡 Lifelong learner
+
 ✨ Open to collaborations on exciting projects
 
