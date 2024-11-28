@@ -12,16 +12,15 @@ Languages: Node.js
 Frameworks: Express.js
 Database: MongoDB
 
-⚙️ DevOps & Tools
-Git & GitHub
-netlify
-vercel
-CI/CD (GitHub Actions)
+⚙️ DevOps & Tools:
+Git & GitHub,
+netlify,
+vercel,
 Postman
 
 🌍 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/abdulsalam-akinyoola-2b01b82a8
-Twitter: https://twitter.com/Abdulsalamdev
+LinkedIn: https://www.linkedin.com/in/abdulsalam-akinyoola-2b01b82a8,
+Twitter: https://twitter.com/Abdulsalamdev,
 Email: abdulsalamakinyoola@gmail.com
 
 🌟 About Me
