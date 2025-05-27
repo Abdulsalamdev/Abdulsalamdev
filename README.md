@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Abdulsalamdev?style=for-the-badge&color=yellow)
-
 
 I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about building sleek, scalable, and user-friendly applications. I'm currently deepening my expertise in **AI/ML with Python**, while delivering value through real-world web development.
 
@@ -12,7 +10,7 @@ I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about 
 ## 🙂 About Me
 
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
-[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/your-username?tab=repositories)
+[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/Abdulsalamdev?tab=repositories)
 
 Builder. Learner. Problem Solver.
 I create functional, clean, and user-focused software while expanding my skills in AI and Python.
