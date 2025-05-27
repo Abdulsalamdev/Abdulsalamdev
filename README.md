@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Abdulsalamdev?style=for-the-badge&color=yellow)
+
 
 I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about building sleek, scalable, and user-friendly applications. I'm currently deepening my expertise in **AI/ML with Python**, while delivering value through real-world web development.
 
