@@ -3,11 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue)
 
-I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about building sleek, scalable, and user-friendly applications. I'm currently deepening my expertise in **AI/ML with Python**, while delivering value through real-world web development.
-
----
-
-![Abdulsalamdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about building sleek, scalable, and user-friendly applications.  
+I'm currently deepening my expertise in **AI/ML with Python**, while delivering value through real-world web development.
 
 ---
 
@@ -16,7 +13,7 @@ I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about 
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/Abdulsalamdev?tab=repositories)
 
-Builder. Learner. Problem Solver.
+Builder. Learner. Problem Solver.  
 I create functional, clean, and user-focused software while expanding my skills in AI and Python.
 
 ---
@@ -37,15 +34,8 @@ I create functional, clean, and user-focused software while expanding my skills 
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true)
-
-
----
-
 ### 🧠 AI / ML & Python Tools
+
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,19 +46,28 @@ I create functional, clean, and user-focused software while expanding my skills 
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true)
+![Public Repositories](https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&count_private=false&hide=stars,issues,pulls&theme=radical)
+
+---
+
 ## 💡 Interests & Learning Goals
 
-- 🤖 Exploring **Artificial Intelligence** with **Python**
-- 📘 Deepening knowledge of **Machine Learning** libraries & frameworks
-- 🧠 Studying **data structures**, **algorithms**, and **system design**
-- 🛠 Creating useful open-source tools to support other developers
+- 🤖 Exploring **Artificial Intelligence** with **Python**  
+- 📘 Deepening knowledge of **Machine Learning** libraries & frameworks  
+- 🧠 Studying **data structures**, **algorithms**, and **system design**  
+- 🛠 Creating useful open-source tools to support other developers  
 
 ---
 
 ## 📬 Let's Connect!
 
-- 📧 **Email**: [your-email@example.com](mailto:abdulsalamakinyoola@gmail.com)
-- 🐦 **Twitter/X**: [@yourhandle](https://x.com/Abdulsalamdev)
+- 📧 **Email**: [abdulsalamakinyoola@gmail.com](mailto:abdulsalamakinyoola@gmail.com)  
+- 🐦 **Twitter/X**: [@Abdulsalamdev](https://x.com/Abdulsalamdev)  
+
 ---
 
 > ⭐ Feel free to explore my projects, contribute, or reach out if you’re interested in collaboration!
