@@ -7,6 +7,10 @@ I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about 
 
 ---
 
+![Abdulsalamdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+
+---
+
 ## 🙂 About Me
 
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)
@@ -20,6 +24,7 @@ I create functional, clean, and user-focused software while expanding my skills 
 ## 🔥 Tech Stack
 
 ### 💻 Web & Frontend
+
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,7 +33,15 @@ I create functional, clean, and user-focused software while expanding my skills 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🎨 Designing modern, accessible, and responsive UIs using **Tailwind CSS**, **clean architecture**, and **UI/UX principles**
+> 🎨 Designing modern, accessible, and responsive UIs using **Tailwind CSS**, **clean architecture**, and **UI/UX principles**
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true)
+
 
 ---
 
