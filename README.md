@@ -49,16 +49,14 @@ I create functional, clean, and user-focused software while expanding my skills 
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&count_private=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical" height="180em"/>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats (commits, stars, followers...)" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
-
 ---
 
 ## 💡 Interests & Learning Goals
