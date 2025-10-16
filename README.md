@@ -51,9 +51,21 @@ I create functional, clean, and user-focused software while expanding my skills 
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true)  
-![Public Repositories](https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&count_private=false&hide=stars,issues,pulls&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulsalamdev&theme=radical" alt="Contribution Summary"/>
+</p>
+
 
 ---
 
