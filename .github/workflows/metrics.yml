@@ -1,0 +1,50 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Abdulsalamdev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Lagos
+
+          # 🗓️ Contribution Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ⭐ Top Starred Repositories
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          # 🏆 Achievements (Ranked badges like S+, A, etc.)
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+
+          # 🔥 Contribution Streaks (Shows total, current, and longest streaks)
+          plugin_streak: yes
+          plugin_streak_days: yes
+          plugin_streak_sections: total, current, longest
+          plugin_streak_theme: classic
+
+          # 📊 Follow-up (Shows your public repos and contributions)
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          # 🧠 Languages Used (Most used programming languages)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 30
+          
