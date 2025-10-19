@@ -26,18 +26,17 @@ I create functional, clean, and user-focused software while expanding my skills 
 
 ## 🏆 GitHub Metrics
 
+<h2 align="center">⚡ GitHub Stats & Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" height="160em" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdulsalamdev/Abdulsalamdev/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 ---
 
