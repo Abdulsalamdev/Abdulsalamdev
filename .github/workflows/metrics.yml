@@ -18,33 +18,34 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Lagos
 
-          # 🗓️ Contribution Calendar
+          # 🗓️ Calendar of contributions (full year view)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # ⭐ Top Starred Repositories
+          # ⭐ Latest starred repos
           plugin_stars: yes
-          plugin_stars_limit: 5
+          plugin_stars_limit: 3
 
-          # 🏆 Achievements (Ranked badges like S+, A, etc.)
+          # 🏆 Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
 
-          # 🔥 Contribution Streaks (Shows total, current, and longest streaks)
-          plugin_streak: yes
-          plugin_streak_days: yes
-          plugin_streak_sections: total, current, longest
-          plugin_streak_theme: classic
+          # 📈 Activity stats (replaces streak plugin)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
 
-          # 📊 Follow-up (Shows your public repos and contributions)
+          # 🧑‍💻 Follow-up on projects
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
-          # 🧠 Languages Used (Most used programming languages)
+          # 💬 Languages used
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 30
           
