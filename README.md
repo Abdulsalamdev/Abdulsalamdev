@@ -1,5 +1,9 @@
 # Hi there! 👋
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Modern+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
+</h1>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge) 
 ![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue) 
 ![GitHub Stars](https://img.shields.io/github/stars/Abdulsalamdev?style=for-the-badge&color=yellow&cacheSeconds=60)
@@ -19,6 +23,24 @@ Builder. Learner. Problem Solver.
 I create functional, clean, and user-focused software while expanding my skills in AI and Python.
 
 ---
+
+## 🏆 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdulsalamdev/Abdulsalamdev/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 
 ## 🔥 Tech Stack
 
