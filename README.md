@@ -1,48 +1,37 @@
 # Hi there! 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;CS+Student+%7C+Aspiring+Full+Stack+AI+Engineer;Building+Intelligent+%26+Scalable+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=680&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;CS+Student+%7C+Aspiring+Full+Stack+AI+Engineer;Building+Intelligent+%26+Scalable+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge) 
-![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue) 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Abdulsalamdev?style=for-the-badge&color=yellow&cacheSeconds=60)
 
-I'm **Abdulsalam**, a **CS Student & Aspiring Full Stack AI Engineer 🤖**  
-I’m passionate about building intelligent, scalable, and user-focused applications that bridge **Frontend, Backend & Artificial Intelligence**.
-
-Currently expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Python for AI**, while crafting seamless digital experiences through **modern web development**.
+</div>
 
 ---
 
-## 🙂 About Me
+## 💫 About Me
 
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&color=brightgreen)  
-[![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/Abdulsalamdev?tab=repositories)
+👨🏽‍💻 I’m **Abdulsalam**, a **CS Student & Aspiring Full Stack AI Engineer 🤖**  
+🌍 Passionate about building **intelligent, scalable, and user-focused** web applications.  
+💡 My mission: to bridge **Frontend**, **Backend**, and **Artificial Intelligence** for smarter digital experiences.  
 
-Builder. Learner. Problem Solver.  
-I create clean, efficient, and meaningful software while growing toward my goal of becoming a **Full Stack AI Engineer** — combining data-driven intelligence with great user experience.
+📚 Currently exploring:
+- Machine Learning & Deep Learning with **Python**
+- Data Structures, Algorithms & System Design
+- Intelligent Web Systems that learn and adapt
 
----
-
-## 🏆 GitHub Metrics
-
-<h2 align="center">⚡ GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" height="160em" />
-</p>
+> “Code with logic, build with purpose, and automate with intelligence.” ⚙️
 
 ---
 
-## 🔥 Tech Stack
+## 🧠 Tech Arsenal
 
-### 💻 Web & Frontend
+### 🎨 Frontend & Web Technologies
 
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -52,11 +41,11 @@ I create clean, efficient, and meaningful software while growing toward my goal 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> 🎨 Designing responsive, accessible UIs with **React**, **Next.js**, and **Tailwind CSS** — blending functionality and aesthetics.
+> 🪄 Creating sleek, responsive, and accessible interfaces using **React**, **Next.js**, and **Tailwind CSS**.
 
 ---
 
-### 🧰 Backend Tools & Technologies
+### ⚙️ Backend & API Development
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -65,7 +54,7 @@ I create clean, efficient, and meaningful software while growing toward my goal 
 ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-> ⚙️ Developing secure, efficient APIs using **Node.js**, **Express**, and **MongoDB** — with a focus on scalability and clean architecture.
+> ⚙️ Developing secure and scalable RESTful APIs with **Node.js**, **Express**, and **MongoDB**.
 
 ---
 
@@ -77,25 +66,49 @@ I create clean, efficient, and meaningful software while growing toward my goal 
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-> 🧠 Exploring **Machine Learning**, **Deep Learning**, and **AI-driven systems** with Python — merging intelligence with full-stack development.
+> 🧩 Exploring **Machine Learning**, **Neural Networks**, and **AI-driven web systems** with **Python**.
 
 ---
 
-## 💡 Interests & Learning Goals
+## 🏆 GitHub Highlights
 
-- 🤖 Becoming a **Full Stack AI Engineer**  
-- 📘 Deepening knowledge in **ML**, **DL**, and **Neural Networks**  
-- 🧩 Building intelligent applications with **Python**, **Node.js**, and **Next.js**  
-- 🛠 Contributing to **open-source** and real-world **AI-powered projects**  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180em" />
+<img src="https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" height="180em" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" height="160em" />
 
-## 📬 Let's Connect!
-
-- 📧 **Email**: [abdulsalamakinyoola@gmail.com](mailto:abdulsalamakinyoola@gmail.com)  
-- 🐦 **Twitter/X**: [@Abdulsalamdev](https://x.com/Abdulsalamdev)
+</div>
 
 ---
 
-> ⭐ *Feel free to explore my projects, contribute, or connect if you're passionate about building the future with code and intelligence!*
-> 
+## 💡 Interests & Goals
+
+🎯 **Short Term**
+- Master advanced **Python** & **Machine Learning**
+- Build AI-powered **full-stack projects**
+- Contribute to **open-source** AI tools  
+
+🚀 **Long Term**
+- Become a **Full Stack AI Engineer**
+- Create **intelligent products** that solve real-world challenges
+- Mentor other developers in building with AI  
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:abdulsalamakinyoola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/Abdulsalamdev"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/Abdulsalamdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  
+⭐ *“Keep learning. Keep building. The future is intelligent.”* 🤖  
+
+</div>
