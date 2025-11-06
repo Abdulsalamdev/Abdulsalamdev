@@ -1,16 +1,17 @@
 # Hi there! 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Modern+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;CS+Student+%7C+Aspiring+Full+Stack+AI+Engineer;Building+Intelligent+%26+Scalable+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge) 
 ![GitHub Followers](https://img.shields.io/github/followers/Abdulsalamdev?style=for-the-badge&color=blue) 
 ![GitHub Stars](https://img.shields.io/github/stars/Abdulsalamdev?style=for-the-badge&color=yellow&cacheSeconds=60)
 
+I'm **Abdulsalam**, a **CS Student & Aspiring Full Stack AI Engineer 🤖**  
+I’m passionate about building intelligent, scalable, and user-focused applications that bridge **Frontend, Backend & Artificial Intelligence**.
 
-I'm **Abdulsalam**, a **Full-Stack Developer & AI Enthusiast** passionate about building sleek, scalable, and user-friendly applications.  
-I'm currently deepening my expertise in **AI/ML with Python**, while delivering value through real-world web development.
+Currently expanding my knowledge in **Machine Learning**, **Deep Learning**, and **Python for AI**, while crafting seamless digital experiences through **modern web development**.
 
 ---
 
@@ -20,7 +21,7 @@ I'm currently deepening my expertise in **AI/ML with Python**, while delivering 
 [![Repositories](https://img.shields.io/badge/My%20Repositories-%F0%9F%93%96-blue?style=for-the-badge)](https://github.com/Abdulsalamdev?tab=repositories)
 
 Builder. Learner. Problem Solver.  
-I create functional, clean, and user-focused software while expanding my skills in AI and Python.
+I create clean, efficient, and meaningful software while growing toward my goal of becoming a **Full Stack AI Engineer** — combining data-driven intelligence with great user experience.
 
 ---
 
@@ -37,9 +38,7 @@ I create functional, clean, and user-focused software while expanding my skills 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" height="160em" />
 </p>
 
-
 ---
-
 
 ## 🔥 Tech Stack
 
@@ -53,7 +52,7 @@ I create functional, clean, and user-focused software while expanding my skills 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> 🎨 Designing modern, accessible, and responsive UIs using **Tailwind CSS**, **clean architecture**, and **UI/UX principles**
+> 🎨 Designing responsive, accessible UIs with **React**, **Next.js**, and **Tailwind CSS** — blending functionality and aesthetics.
 
 ---
 
@@ -66,17 +65,28 @@ I create functional, clean, and user-focused software while expanding my skills 
 ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-> ⚙️ Building secure, scalable RESTful APIs using **Node.js**, **Express**, and **MongoDB**
+> ⚙️ Developing secure, efficient APIs using **Node.js**, **Express**, and **MongoDB** — with a focus on scalability and clean architecture.
 
 ---
 
+### 🤖 AI & Python Stack *(In Progress)*
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+> 🧠 Exploring **Machine Learning**, **Deep Learning**, and **AI-driven systems** with Python — merging intelligence with full-stack development.
+
+---
 
 ## 💡 Interests & Learning Goals
 
-- 🤖 Exploring **Artificial Intelligence** with **Python**  
-- 📘 Deepening knowledge of **Machine Learning** libraries & frameworks  
-- 🧠 Studying **data structures**, **algorithms**, and **system design**  
-- 🛠 Creating useful open-source tools to support other developers  
+- 🤖 Becoming a **Full Stack AI Engineer**  
+- 📘 Deepening knowledge in **ML**, **DL**, and **Neural Networks**  
+- 🧩 Building intelligent applications with **Python**, **Node.js**, and **Next.js**  
+- 🛠 Contributing to **open-source** and real-world **AI-powered projects**  
 
 ---
 
@@ -87,4 +97,5 @@ I create functional, clean, and user-focused software while expanding my skills 
 
 ---
 
-> ⭐ Feel free to explore my projects, contribute, or reach out if you’re interested in collaboration!
+> ⭐ *Feel free to explore my projects, contribute, or connect if you're passionate about building the future with code and intelligence!*
+> 
