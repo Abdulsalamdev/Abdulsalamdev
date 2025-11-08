@@ -16,11 +16,11 @@
 
 ## 💫 About Me
 
-👨🏽‍💻 I’m **Abdulsalam**, a **CS Student & Aspiring Full Stack AI Engineer 🤖**  
-🌍 Passionate about building **intelligent, scalable, and user-focused** web applications.  
-💡 My mission: to bridge **Frontend**, **Backend**, and **Artificial Intelligence** for smarter digital experiences.  
+I’m **Abdulsalam**, a **CS Student & Aspiring Full Stack AI Engineer **  
+Passionate about building **intelligent, scalable, and user-focused** web applications.  
+My mission: to bridge **Frontend**, **Backend**, and **Artificial Intelligence** for smarter digital experiences.  
 
-📚 Currently exploring:
+Currently exploring:
 - Machine Learning & Deep Learning with **Python**
 - Data Structures, Algorithms & System Design
 - Intelligent Web Systems that learn and adapt
@@ -85,12 +85,12 @@
 
 ## 💡 Interests & Goals
 
-🎯 **Short Term**
+**Short Term**
 - Master advanced **Python** & **Machine Learning**
 - Build AI-powered **full-stack projects**
 - Contribute to **open-source** AI tools  
 
-🚀 **Long Term**
+**Long Term**
 - Become a **Full Stack AI Engineer**
 - Create **intelligent products** that solve real-world challenges
 - Mentor other developers in building with AI  
