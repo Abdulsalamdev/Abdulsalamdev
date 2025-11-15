@@ -29,6 +29,14 @@ Currently exploring:
 
 ---
 
+## 🤝 I'm Open To
+
+- 💼 **Job Opportunities** (Remote or Hybrid)  
+- 🧪 **Internships** — to learn, grow, and contribute  
+- 🧭 **Mentorship** — both **seeking guidance** and **offering peer support**  
+
+---
+
 ## 🧠 Tech Arsenal
 
 ### 🎨 Frontend & Web Technologies
@@ -112,3 +120,4 @@ Currently exploring:
 ⭐ *“Keep learning. Keep building. The future is intelligent.”* 🤖  
 
 </div>
+
