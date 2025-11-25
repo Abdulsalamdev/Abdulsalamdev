@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=680&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;CS+Student+%7C+Aspiring+Full+Stack+AI+Engineer;Building+Intelligent+%26+Scalable+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=680&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;CS+Student+%7C+Full+Stack Engineer;Building+Intelligent+%26+Scalable+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -16,65 +16,54 @@
 
 ## 💫 About Me
 
-I’m **Abdulsalam**, a **CS Student**, **Full Stack Engineer**, and **Aspiring Full Stack AI Engineer**.  
-Passionate about building **intelligent, scalable, and user-focused** web applications.  
-My mission: to bridge **Frontend**, **Backend**, and **Artificial Intelligence** for smarter digital experiences.
+I’m **Abdulsalam Akinyoola**, a **CS Student** and **Full Stack Engineer** building **intelligent, scalable, and user-focused web applications**.  
+I bridge **Frontend**, **Backend**, and **AI-driven solutions**, focusing on clean code, smart UX, and practical implementation.  
 
 Currently exploring:
 - Machine Learning & Deep Learning with **Python**
 - Data Structures, Algorithms & System Design
-- Intelligent Web Systems that learn and adapt
+- Intelligent Web Systems that learn and adapt  
 
-> “Code with logic, build with purpose, and automate with intelligence.” ⚙️
-
----
-
-## 🤝 I'm Open To
-
-- 💼 **Job Opportunities** (Remote or Hybrid)  
-- 🧪 **Internships** — to learn, grow, and contribute  
-- 🧭 **Mentorship** — both **seeking guidance** and **offering peer support**  
+> “Code with logic, build with purpose, and innovate with intelligence.” ⚙️
 
 ---
 
-## 🧠 Tech Arsenal
+## 🤝 Open To
 
-### 🎨 Frontend & Web Technologies
+- 💼 **Job Opportunities** (Remote / Hybrid)  
+- 🧪 **Internships** — for hands-on growth and contribution  
+- 🧭 **Mentorship** — both **learning from experts** and **helping peers**
 
+---
+
+## 🧠 Tech Stack
+
+### 🎨 Frontend & Web
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> 🪄 Creating sleek, responsive, and accessible interfaces using **React**, **Next.js**, and **Tailwind CSS**.
+> Creating **responsive, accessible, and performant interfaces** using modern frontend tools.
 
----
-
-### ⚙️ Backend & API Development
-
+### ⚙️ Backend & API
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-> ⚙️ Developing secure and scalable RESTful APIs with **Node.js**, **Express**, and **MongoDB**.
+> Building **secure, scalable, and maintainable APIs** with Node.js, Express, and MongoDB.
 
----
-
-### 🤖 AI & Python Stack *(In Progress)*
-
+### 🤖 AI & Python (In Progress)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-> 🧩 Exploring **Machine Learning**, **Neural Networks**, and **AI-driven web systems** with **Python**.
+> Experimenting with **Machine Learning**, **Neural Networks**, and **AI-driven web systems**.
 
 ---
 
@@ -91,21 +80,21 @@ Currently exploring:
 
 ---
 
-## 💡 Interests & Goals
+## 💡 Goals
 
 **Short Term**
-- Master advanced **Python** & **Machine Learning**
-- Build AI-powered **full-stack projects**
-- Contribute to **open-source** AI tools  
+- Master **Python & Machine Learning**
+- Build **AI-powered full-stack projects**
+- Contribute to **open-source AI tools**
 
 **Long Term**
 - Become a **Full Stack AI Engineer**
 - Create **intelligent products** that solve real-world challenges
-- Mentor other developers in building with AI  
+- Mentor upcoming developers
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:abdulsalamakinyoola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -116,8 +105,5 @@ Currently exploring:
 ---
 
 <div align="center">
-  
 ⭐ *“Keep learning. Keep building. The future is intelligent.”* 🤖  
-
 </div>
-
