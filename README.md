@@ -67,14 +67,12 @@ Currently exploring:
 
 ## 🏆 GitHub Highlights
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180em" />
-<img src="https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" height="180em" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" height="160em" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abdulsalamdev&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" />
+</p>
 
 ---
 
