@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=680&lines=Hi+there!+👋+I'm+Abdulsalam+Akinyoola;CS+Student+%7C+Aspiring+Full+Stack+AI+Engineer;Building+Intelligent+%26+Scalable+Web+Apps;Always+Learning+%26+Improving!+🚀" alt="Typing SVG" /> </h1>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulsalamdev&color=blueviolet&style=for-the-badge)
@@ -100,6 +98,3 @@ Currently exploring:
 
 ---
 
-<div align="center">
-⭐ *“Keep learning. Keep building. The future is intelligent.”* 🤖  
-</div>
