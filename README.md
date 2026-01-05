@@ -24,17 +24,17 @@ Currently exploring:
 
 ---
 
-## 🤝 Open To
+##  Open To
 
-- 💼 **Job Opportunities** (Remote / Hybrid)  
-- 🧪 **Internships** — for hands-on growth and contribution  
-- 🧭 **Mentorship** — both **learning from experts** and **helping peers**
+-  **Job Opportunities** (Remote / Hybrid)  
+-  **Internships** — for hands-on growth and contribution  
+-  **Mentorship** — both **learning from experts** and **helping peers**
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend & Web
+###  Frontend & Web
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,7 +63,7 @@ Currently exploring:
 
 ---
 
-## 🏆 GitHub Highlights
+##  GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulsalamdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
@@ -74,21 +74,16 @@ Currently exploring:
 
 ---
 
-## 💡 Goals
-
-**Short Term**
+##  Goals
 - Master **Python & Machine Learning**
 - Build **AI-powered full-stack projects**
 - Contribute to **open-source AI tools**
-
-**Long Term**
-- Become a **Full Stack AI Engineer**
 - Create **intelligent products** that solve real-world challenges
 - Mentor upcoming developers
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:abdulsalamakinyoola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
