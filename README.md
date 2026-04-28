@@ -10,17 +10,23 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-I’m **Abdulsalam Akinyoola**, a **CS Student** and **Full Stack Engineer** building **intelligent, scalable, and user-focused web applications**.  
-I bridge **Frontend**, **Backend**, and **AI-driven solutions**, focusing on clean code, smart UX, and practical implementation.  
+I’m **Abdulsalam Akinyoola**,a backend-focused full-stack engineer and computer science student.
 
-Currently exploring:
-- Machine Learning & Deep Learning with **Python**
-- Data Structures, Algorithms & System Design
-- Intelligent Web Systems that learn and adapt  
+I build web applications using Node.js, NestJS, PostgreSQL, React, and Next.js, with a strong focus on backend logic, API design, and performance.
 
-> “Code with logic, build with purpose, and innovate with intelligence.” ⚙️
+I’ve worked across the development lifecycle from building APIs to shipping user-facing features during my internships and projects.
+
+Currently, I’m:
+
+Strengthening my backend engineering skills
+Learning data structures, algorithms, and system design
+Exploring applied AI with Python and how it fits into real products
+
+I care about writing clean, maintainable code and building systems that actually work in real-world use cases.
+
+> “Code with logic, build with purpose, and innovate with intelligence.” 
 
 ---
 
