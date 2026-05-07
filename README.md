@@ -18,16 +18,6 @@ I build web applications using Node.js, NestJS, PostgreSQL, React, and Next.js, 
 
 I’ve worked across the development lifecycle from building APIs to shipping user-facing features during my internships and projects.
 
-Currently, I’m:
-
-Strengthening my backend engineering skills
-Learning data structures, algorithms, and system design
-Exploring applied AI with Python and how it fits into real products
-
-I care about writing clean, maintainable code and building systems that actually work in real-world use cases.
-
-> “Code with logic, build with purpose, and innovate with intelligence.” 
-
 ---
 
 ##  Open To
@@ -77,15 +67,6 @@ I care about writing clean, maintainable code and building systems that actually
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsalamdev&layout=compact&langs_count=10&theme=radical&hide_border=true" />
 </p>
-
----
-
-##  Goals
-- Master **Python & Machine Learning**
-- Build **AI-powered full-stack projects**
-- Contribute to **open-source AI tools**
-- Create **intelligent products** that solve real-world challenges
-- Mentor upcoming developers
 
 ---
 
