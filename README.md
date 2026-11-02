@@ -12,11 +12,9 @@
 
 ## About Me
 
-I’m **Abdulsalam Akinyoola**,a backend-focused full-stack engineer and computer science student.
+I’m **Abdulsalam Akinyoola**,a full-stack software engineer and computer science student.
 
 I build web applications using Node.js, NestJS, PostgreSQL, React, and Next.js, with a strong focus on backend logic, API design, and performance.
-
-I’ve worked across the development lifecycle from building APIs to shipping user-facing features during my internships and projects.
 
 ---
 
