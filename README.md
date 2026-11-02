@@ -35,7 +35,6 @@ I build web applications using Node.js, NestJS, PostgreSQL, React, and Next.js, 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> Creating **responsive, accessible, and performant interfaces** using modern frontend tools.
 
 ### ⚙️ Backend & API
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,15 +43,7 @@ I build web applications using Node.js, NestJS, PostgreSQL, React, and Next.js, 
 ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-> Building **secure, scalable, and maintainable APIs** with Node.js, Express, and MongoDB.
-
 ### 🤖 AI & Python (In Progress)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
 > Experimenting with **Machine Learning**, **Neural Networks**, and **AI-driven web systems**.
 
 ---
